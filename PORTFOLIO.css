@@ -1,4 +1,4 @@
-.z{border:0 solid rgba(0, 0, 0, 0.836);
+.z{border:0 solid rgba(165, 108, 108, 0.24);
     border-radius:25px 50px;
     text-decoration:none !important;
     color:white!important;
@@ -11,7 +11,7 @@
 }*/
 
 
-#name{background-color: rgba(0, 0, 0, 0.747);
+#name{background-color: rgba(21, 138, 153, 0.726);
     text-align: center;
     width:100%;
     font-size: 40px;
@@ -49,7 +49,7 @@ h4{ text-align: center;
     flex-wrap: wrap;justify-content: center;
     width:100%;
     font-weight: bold;
-    background-color: black;
+    background-color: rgba(24, 54, 151, 0.74);
     font-family: 'Cambo', serif;
 
 }
@@ -67,7 +67,7 @@ li{ <!--font-family: Georgia;-->
 #edu,#work{font-size: 20px;
     text-align: center;
 }
-#about-me{ display:flex; flex-wrap:wrap;font-size: 20px;
+#about-me{ display:flex; flex-wrap:wrap;font-size: 22px;
     justify-content: center; text-align: center;
 }
 
@@ -83,13 +83,13 @@ img { width:40%;
     overflow-y:auto;
     width:100%;
     z-index:-1;
-    background-color: rgb(123, 177, 177);
+    background-color:rgba(154, 160, 144, 0.418);
 }
 .a{ text-align:center;
-    font-family: 'Lateef', cursive;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
     display:inline-block;
-    width:50%;
-    height:50%;
+    width:80%;
+    height:55%;
 }
 
 @media(min-width:480px) and (max-width:770px) {
